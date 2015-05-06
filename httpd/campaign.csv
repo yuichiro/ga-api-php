@@ -1,0 +1,4 @@
+ga:campaignCode,ga:campaign,ga:medium,ga:source
+001,testGoogle,cpc,google
+002,testYahoo,cpc,yahoo
+003,testMS,cpc,bing
